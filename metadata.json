@@ -1,0 +1,6 @@
+{
+  "name": "RasQ | Smartphone-to-SBC Edge Computing Platform",
+  "description": "RasQ transforms ordinary smartphones into high-performance, Raspberry Pi-style single-board computers for robotics and edge computing via plug-and-play USB-C hardware bridges.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
